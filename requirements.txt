@@ -1,0 +1,6 @@
+dataget
+mnist
+numpy
+pandas
+scikit-learn
+torch
